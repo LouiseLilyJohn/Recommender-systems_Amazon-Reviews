@@ -1,1 +1,1 @@
-# amazonreviews
+# Recommender systems: Amazon reviews
